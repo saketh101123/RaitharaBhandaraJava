@@ -1,4 +1,4 @@
-# Raithara Bhandara — Servlets + JDBC (MySQL)
+# Raithara Bhandara — Servlets + JDBC (MySQL) + Spring Boot
 
 A simple, interview-ready project that connects **farmers** with **nearby cold storage facilities** to increase crop shelf life.
 
