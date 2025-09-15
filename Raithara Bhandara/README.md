@@ -2,8 +2,7 @@
 
 A simple, interview-ready project that connects **farmers** with **nearby cold storage facilities** to increase crop shelf life.
 
-- **Stack:** Core Java, **Servlets (HttpServlet)**, **JDBC**, MySQL, Maven
-- **No Spring / No Hibernate / No Swagger** — exactly as requested
+- **Stack:** Core Java, **Servlets (HttpServlet)**, **JDBC**, MySQL, Maven, Spring Boot, Rest, Spring MVC
 - **Packaging:** WAR. Deploy on **Apache Tomcat 9+**
 - **Auth:** Minimal login via `HttpServlet` using a `users` table (role-based: FARMER/ADMIN)
 - **UI:** Basic HTML + CSS only (no JSP)
